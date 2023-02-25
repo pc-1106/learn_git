@@ -1,1 +1,2 @@
 line 1 of f2.txt
+some text
